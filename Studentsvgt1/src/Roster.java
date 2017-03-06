@@ -1,7 +1,4 @@
 import java.util.ArrayList;
-// public static void add(String studentID, String firstname, String lastname, String emailaddress, int age,
-// int grade1, int grade2, int grade3)
-
 /**
  * Created by tstocks on 9/25/16.
  */
