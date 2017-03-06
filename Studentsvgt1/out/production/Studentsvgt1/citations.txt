@@ -1,0 +1,1 @@
+Gupta, L. (2014, November 14). Java Regex : Validate Email Address - HowToDoInJava. Retrieved October 16, 2016, from http://howtodoinjava.com/regex/java-regex-validate-email-address/
